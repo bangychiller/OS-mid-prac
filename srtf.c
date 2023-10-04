@@ -1,4 +1,4 @@
-//shortest remaning time first
+//shortest remaning time first(SRTF) or Preemptive SJF
 #include<stdio.h>
 #include<stdbool.h>
 #include<limits.h>
