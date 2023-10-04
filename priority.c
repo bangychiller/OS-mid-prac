@@ -1,3 +1,5 @@
+//priority scheduling
+
 #include <stdio.h>
 #include <string.h>
 
